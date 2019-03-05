@@ -1,0 +1,12 @@
+{
+  "name": "MHZ19",
+  "keywords": "sensor, co2, mhz19, mh-z19",
+  "description": "Arduino library for Winsen MH-Z19B CO2 sensors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KonstantoS/MHZ19.git"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
